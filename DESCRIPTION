@@ -8,4 +8,3 @@ biocViews: Visualization,Statistics,Annotation
 Depends: R (>= 2.14.0), methods,GenomicRanges
 Description: Fork of OmicCircos. OmicCircos (2) is an R application and package for generating high-quality circular plots for omics data.
 License: GPL-2
-Packaged: 2015-02-23 11:59:12 UTC; Ying Hu
